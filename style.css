@@ -79,7 +79,6 @@ button {
     color: #fff;
     transition: opacity 0.15s, transform 0.1s;
 }
-
 button:active {
     opacity: 0.75;
     transform: scale(0.96);

@@ -29,11 +29,9 @@ h1 {
     letter-spacing: 1px;
     text-transform: uppercase;
     display: inline-block;
-    align-items: center;
-    align-content: center;
-    position: absolute;
-    margin-top: 20px;
-    margin-left: 15px;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
 }
 .logo {
     background-image: url("alpha.jpg");
